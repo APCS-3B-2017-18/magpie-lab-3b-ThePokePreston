@@ -168,5 +168,10 @@ public class Magpie3
 
 		return response;
 	}
+	public void doNothing(int dud){
+		//does nothing
+		/**it does nothing
+		**/
+	}
 
 }
